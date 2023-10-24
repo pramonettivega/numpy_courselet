@@ -1,3 +1,3 @@
-# Numpy Courselet 
+# Getting Started with Numpy
 
-This is a preliminary version of a repository for a Numpy courselet
+This courselet is designed to give an introduction to numpy as part of the Data Science Introduction. 
